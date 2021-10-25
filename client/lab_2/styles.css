@@ -1,4 +1,6 @@
-* {
+* 
+
+{
     box-sizing: border-box;
   }
   
@@ -19,7 +21,7 @@
   }
   
   nav {
-    background-color: rgba(0,139, 139,0.4);
+    background-color: rgba(59, 182, 182, 0.4);
     display: flex;
     flex-flow: row wrap;
     border-radius: 4px;
